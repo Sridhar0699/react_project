@@ -1,5 +1,5 @@
 export const CandidateProfile = ()=>{
-     const name = "Sridhar Reddy";
+        const name = "Sridhar Reddy";
         const role = "Developer";
         const yearsOfExperience = 2;
         const isAvailable = true;
