@@ -3,7 +3,8 @@ export const CandidateProfile = ()=>{
         const role = "Developer";
         const yearsOfExperience = 2;
         const isAvailable = true;
-    return (       
+    return (    
+        /* JSX */   
         <>
             <h2>{name}</h2>
             <p>{role} with {yearsOfExperience} years of experience</p>

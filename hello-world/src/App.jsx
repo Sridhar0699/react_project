@@ -9,7 +9,7 @@ import {ContactForm} from './ContactForm';
 import { CandidateProfile } from './CandidateProfile'
 
 
-/* Welcome is the component.It should start with uppercase letter.
+/* App is the component.It should start with uppercase letter.
 Component is a JS function that returns HTML.
 Component is a piece of UI .It can be a button or as large as an entire page.
 Components are reusable.
